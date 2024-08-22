@@ -1,0 +1,4 @@
+*.pth
+*.svg
+*.tif
+.env
